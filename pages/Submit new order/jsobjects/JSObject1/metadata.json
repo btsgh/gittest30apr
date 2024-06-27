@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "661cfd7db51889462ae527cf_661cfdd9b51889462ae5282c",
+  "id": "Submit new order_JSObject1",
   "unpublishedCollection": {
     "name": "JSObject1",
     "pageId": "Submit new order",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Submit new order_JSObject1",
-  "deleted": false,
-  "gitSyncId": "661cfd7db51889462ae527cf_661cfdd9b51889462ae5282c"
+    "variables": []
+  }
 }
