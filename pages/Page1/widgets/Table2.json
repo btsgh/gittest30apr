@@ -101,13 +101,13 @@
   ],
   "dynamicPropertyPathList": [
     {
-      "key": "tableData"
-    },
-    {
       "key": "primaryColumns.EditActions1.isSaveDisabled"
     },
     {
       "key": "primaryColumns.EditActions1.isDiscardDisabled"
+    },
+    {
+      "key": "tableData"
     }
   ],
   "dynamicTriggerPathList": [
